@@ -27,17 +27,6 @@
   
 
   
-      ,"page1": {
-          "title": "About Me",
-          "content": "으아아아아아아 몰라아아아아아 .",
-          "url": "https://imnmmnmi.github.io/blog/about/",
-          "relUrl": "/about/",
-          "date": ""
-      }
-      
-  
-
-  
 
   
   
@@ -59,7 +48,7 @@
   
 
   
-      ,"page10": {
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://imnmmnmi.github.io/blog/robots.txt",
