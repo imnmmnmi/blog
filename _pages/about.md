@@ -1,12 +1,3 @@
----
-layout: page
-title: About Me
-permalink: /about/
----
-
-
-
-
-
+소개라니
 으아아아아아아
 몰라아아아아아
